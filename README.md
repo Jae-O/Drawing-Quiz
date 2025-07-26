@@ -70,3 +70,6 @@ MariaDB (SQL)
 통신	Socket (TCP)
 DB	MariaDB
 기타	포트 포워딩, JDBC, Swing UI
+
+*시연영상*
+https://www.youtube.com/watch?v=SVk8QZcNw8A
