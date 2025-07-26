@@ -16,6 +16,13 @@
 ▶ 게임 화면
 <div align="center"> <img src="https://github.com/user-attachments/assets/94978dc2-c66f-4cc1-ae49-b1ebb1a8faf0" width="360" /> <img src="https://github.com/user-attachments/assets/0057922f-383e-4c65-9aac-a1ddf0a9525c" width="360" /> </div> <p align="center"><i>그림 그리기와 정답 입력이 동시에 진행되는 실시간 게임 플레이 화면</i></p>
 
+## 📺 시연 영상
+
+🎥 **실제 게임 시연 영상 보기**  
+🔗 [https://www.youtube.com/watch?v=SVk8QZcNw8A](https://www.youtube.com/watch?v=SVk8QZcNw8A)
+
+
+
 ## 👨‍💻 담당 역할 (주재오)
 | 역할 구분 | 세부 내용 |
 |-----------|-----------|
@@ -23,6 +30,7 @@
 | **DB 설계** | 회원가입, 로그인, 점수 기록, 문제 저장 테이블 구성 |
 | **서버 연결** | Java 서버와 MariaDB 연동 (JDBC) |
 | **포트 포워딩 설정** | 외부 클라이언트 접속을 위한 공유기 NAT 포트포워딩 구성 |
+
 
 ## 🗄️ 데이터베이스 설계 (MariaDB)
 
@@ -70,6 +78,5 @@ MariaDB (SQL)
 통신	Socket (TCP)
 DB	MariaDB
 기타	포트 포워딩, JDBC, Swing UI
+---
 
-*시연영상*
-https://www.youtube.com/watch?v=SVk8QZcNw8A
